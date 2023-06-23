@@ -1,20 +1,44 @@
 {
-    "usuarios":[
-        {
-            "user": "mafer",
-            "password": "123"
-        },
-        {
-            "user": "mafer pacheco",
-            "password": "3115691594"
-        },
-        {
-            "user": "mafer luna",
-            "password": "3115691594"
-        },{
-            "user": "mafer milagros",
-            "password": "mafermilagros"
-        }
-        
-    ]
+    "usuarios": [
+    {
+      "id": 0,
+      "user": "Mafer",
+      "cel": 3195919929,
+      "password": "123",
+      "url": "https://images.unsplash.com/photo-1539125530496-3ca408f9c2d9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyZmlsJTIwZGUlMjBob21icmV8ZW58MHx8MHx8&w=1000&q=80",
+      "status": false,
+      "description": "Gym y bien calmado",
+      "dateConection": "2/8/2023"
+    },
+    {
+      "id": 1,
+      "user": "Andrea lopez",
+      "cel": 3122902877,
+      "password": "1234",
+      "url": "https://cdn2.salud180.com/sites/default/files/styles/medium/public/field/image/2020/03/estas_son_las_caracteristicas_que_vuelven_a_una_mujer_irresistible_segun_ellos.jpg",
+      "status": false,
+      "description": "Estoy ocupada ",
+      "dateConection": "2/8/2023"
+    },
+    {
+      "user": "Patricia",
+      "cel": "3145676372",
+      "password": "1234",
+      "url": "https://www.clarin.com/img/2015/03/20/HkwKuZR7x_1256x620.jpg",
+      "status": false,
+      "description": "De vacaciones",
+      "dateConection": "7/2/2023",
+      "id": 2
+    },
+    {
+      "user": "Camilo",
+      "cel": "3124903827",
+      "password": "1234",
+      "url": "https://media.istockphoto.com/id/1200677760/photo/portrait-of-handsome-smiling-young-man-with-crossed-arms.jpg?s=612x612&w=0&k=20&c=g_ZmKDpK9VEEzWw4vJ6O577ENGLTOcrvYeiLxi8mVuo=",
+      "status": false,
+      "description": "Hey there I'm using WhatsApp",
+      "dateConection": "7/2/2023",
+      "id": 3
+    }
+  ]
 }
