@@ -1,0 +1,20 @@
+{
+    "usuarios":[
+        {
+            "user": "mafer",
+            "password": "123"
+        },
+        {
+            "user": "mafer pacheco",
+            "password": "3115691594"
+        },
+        {
+            "user": "mafer luna",
+            "password": "3115691594"
+        },{
+            "user": "mafer milagros",
+            "password": "mafermilagros"
+        }
+        
+    ]
+}
