@@ -52,20 +52,10 @@
     },
     {
       "id": 5,
-      "user": "juan",
-      "cel": "3028592020",
-      "password": "4567",
-      "url": "https://s3.amazonaws.com/cdn.wp.m4ecnet/wp-content/uploads/2018/01/16095118/Depositphotos_3667865_m-2015-compressor.jpg",
-      "status": false,
-      "description": "Otro estado",
-      "dateConection": "1/9/2020"
-    },
-    {
-      "id": 6,
-      "user": "pacho",
-      "cel": "5811480",
+      "user": "Jota",
+      "cel": "2521452",
       "password": "1234",
-      "url": "https://th.bing.com/th/id/OIP.TtuHBTYgrAAnVyWAFukCegHaEK?pid=ImgDet&rs=1",
+      "url": "https://image.slidesharecdn.com/imagenes-16402/95/imagenes-12-728.jpg?cb=1167560137",
       "status": false,
       "description": "Otro estado",
       "dateConection": "1/9/2020"
@@ -100,7 +90,7 @@
       "id": 3,
       "mensaje": "Otra persona",
       "name": "María Antonieta",
-      "img": "https://images.pexels.com/photos/774095/pexels-photo-774095.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "img": "https://th.bing.com/th/id/R.1e3c2c90801234987403274284ca057f?rik=a7XlfBaZQZd8yQ&pid=ImgRaw&r=0",
       "status": false,
       "dateConection": "1:00 pm"
     },
@@ -108,10 +98,11 @@
       "id": 4,
       "mensaje": "Recobremos",
       "name": "Jorge Armando",
-      "img": "https://images.pexels.com/photos/774095/pexels-photo-774095.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "img": "https://th.bing.com/th/id/OIP.MSgtcQ0AAbOSYrxyAYjFtQAAAA?pid=ImgDet&rs=1",
       "status": false,
       "dateConection": "1:00 pm"
-    }, {
+    },
+    {
       "id": 5,
       "mensaje": "Hey bro",
       "name": "luz",
